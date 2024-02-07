@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t440ybkI4pMjTWbZsgIkQcwJ7c+jiHHI8pRbzuv59AlxaJNsF1kqAAV7WMfYcROe1+TfFIgBipIGP9qHRlS1HQ==",
+  "dgSpecHash": "iVeOoR5HJWd6tocN+QHnDOxx4QBvWhG5q8zWzudmK4tcP2HTU1W6zNFDy3JxNwkYlrx4HEH0yWRj+QLLkYyfRg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Galileo\\src\\GalileoAPI\\GalileoAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.26\\microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512",
