@@ -147,3 +147,5 @@ C:\Projects\Galileo\src\GalileoAPI\obj\Debug\net6.0\GalileoAPI.pdb
 C:\Projects\Galileo\src\GalileoAPI\obj\Debug\net6.0\GalileoAPI.genruntimeconfig.cache
 C:\Projects\Galileo\src\GalileoAPI\obj\Debug\net6.0\ref\GalileoAPI.dll
 C:\Projects\Galileo\src\GalileoAPI\bin\Debug\net6.0\Dapper.dll
+C:\Projects\Galileo\src\GalileoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Galileo\src\GalileoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
